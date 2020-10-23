@@ -1,6 +1,11 @@
 # AdAgent
 
 AdAgent is a simple library for implementing admob and facebook audience network easily.
+\nCurrently supports
+* Banner Ad
+* Native Ad
+* Interstitial Ad
+
 *Library automatically load test ad in debug apk for both network*
 
 ## Usage
