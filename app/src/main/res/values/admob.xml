@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="admob_app_id" translatable="false">@string/admob_app_id_test</string>
+
+    <string name="admob_banner" translatable="false">@string/admob_banner_id_test</string>
+    <string name="admob_interstitial" translatable="false">@string/admob_interstitial_id_test</string>
+    <string name="admob_native" translatable="false">@string/admob_native_id_test</string>
+
+</resources>

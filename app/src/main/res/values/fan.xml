@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="fan_banner_placement" translatable="false">banner_id</string>
+    <string name="fan_interstitial_placement" translatable="false">interstitial_id</string>
+    <string name="fan_native_placement" translatable="false">native_id</string>
+</resources>
